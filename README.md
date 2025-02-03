@@ -6,9 +6,7 @@ The "space_hunter" project is an application developed in C language, using CSFM
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#utilisation)
-- [Contributing](#contribuer)
-- [License](#licence)
+- [Usage](#Usage)
 
 ## Description
 
