@@ -45,14 +45,12 @@ This command uses the Makefile to compile the project. Ensure that the Makefile 
 
 ### How tu use
 
-Run the application :
+- Run the application :
 
    ```bash
    ./space_hunter
-   ```
 
-Run the explanation of the project :
+- Run the explanation of the project :
 
    ```bash
    ./space_hunter -h
-   ```
