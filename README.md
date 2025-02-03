@@ -2,13 +2,13 @@
 
 The "space_hunter" project is an application developed in C language, using CSFML, aimed at reproducing the "Duck Hunt" games in a space style.
 
-## Table des matières
+## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
+- [Usage](#utilisation)
+- [Contributing](#contribuer)
+- [License](#licence)
 
 ## Description
 
@@ -19,17 +19,40 @@ You can fight one or two enemy's, according to your choices.
 
 GOOD LUCK TO YOU.
 
+
 ## Installation
 
-### Prérequis
+### Installation Steps
 
-- [Liste des prérequis, par exemple :](#liste-des-prérequis-par-exemple)
-  - `gcc` ou tout autre compilateur C
-  - `make`
-
-### Étapes d'installation
-
-1. Clonez le dépôt :
+1. Clone the repository :
 
    ```bash
    git clone https://github.com/ZeHack0/test.git
+
+1. Navigate to the project directory :
+
+   ```bash
+   cd test
+
+1. Compile the project :
+
+   ```bash
+   make
+This command uses the Makefile to compile the project. Ensure that the Makefile is correctly configured for your environment.
+
+
+## Usage
+
+### How tu use
+
+Run the application :
+
+   ```bash
+   ./space_hunter
+   ```
+
+Run the explanation of the project :
+
+   ```bash
+   ./space_hunter -h
+   ```
