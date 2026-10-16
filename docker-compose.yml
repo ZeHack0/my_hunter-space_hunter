@@ -1,0 +1,5 @@
+# Build de l'image : docker compose build  (équivalent de `make docker` sans le wrapper)
+services:
+  space_hunter:
+    build: .
+    image: space_hunter

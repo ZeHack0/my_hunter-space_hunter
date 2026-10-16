@@ -1,0 +1,15 @@
+*.o
+*.a
+*.out
+*~
+*.toml
+*.gcda
+*.gcno
+*.ase
+
+vgcore.*
+.idea/
+.vscode
+coding-style-reports.log
+my_hunter
+space_hunter

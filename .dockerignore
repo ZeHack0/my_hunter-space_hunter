@@ -1,0 +1,11 @@
+.git
+.idea
+.vscode
+.build
+lib/.build
+*.o
+*.a
+space_hunter
+my_hunter
+vgcore.*
+assets
